@@ -17,7 +17,7 @@ Who am I?
 &nbsp;<a href="https://www.linkedin.com/in/ana-leticia-a-vital/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://twitter.com/analeticiav">
+<a href="https://twitter.com/analeticiaav">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
 </a>&nbsp;
 <a href="discordapp.com/users/640648026087489606">
