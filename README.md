@@ -1,6 +1,6 @@
 ### Who am I?
 
-•⁠  ⁠👩🏻‍💻 Doctoral Student in <a href="https://www.statecotox.uni-bayreuth.de/en/index.html"> Statistical Ecotoxicology </a> at the University of Bayreuth, Germany.  
+•⁠  ⁠👩🏻‍💻 PhD student in <a href="https://www.statecotox.uni-bayreuth.de/en/index.html"> Statistical Ecotoxicology </a> at the University of Bayreuth, Germany.  
 •⁠  ⁠🤓 My focus is on assessing the toxicological effects of microplastics on aquatic species through machine learning and statistical models, including meta-analyses.  
 •⁠  ⁠🛠️ And for that, I use:  
 
